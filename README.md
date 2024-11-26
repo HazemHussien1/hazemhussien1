@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemhussien1&label=Profile%20views&color=0e75b6&style=flat" alt="hazemhussien1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_bughunter" target="blank"><img src="https://img.shields.io/twitter/follow/_bughunter?logo=twitter&style=for-the-badge" alt="_bughunter" /></a> </p>
-
 <h3 align="left">Blog:</h3>
 <p align="left">
 <a href="https://hashnode.com/@hazemhussien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hazemhussien" height="30" width="40" /></a>
